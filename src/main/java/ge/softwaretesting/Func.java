@@ -1,5 +1,6 @@
 package ge.softwaretesting;
 
+
 public class Func implements Interface1, Interface2
 {
     public void replaceSymbolA(String s)
